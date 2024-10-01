@@ -1,0 +1,7 @@
+*.o
+*.vscode
+/Build/
+/Testing/
+/CMakeFiles/
+/build/
+
